@@ -79,20 +79,9 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 **Healthcare ERD:** Entity Relationship Diagram illustrating data structure and relationships. Gain a deeper understanding of the underlying data architecture through the ERD. This visual representation showcases the relationships within the healthcare analytics project.
 
----
-
-## Full Report
-
-For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dynamics Insights Report](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/docs/project_synopsis.docx).
 
 
-<p align="left">
-  <a href="https://youtu.be/PVvWitwDRGg?si=fe24BF-klaIVt9Ys">
-    <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube" alt="Watch on YouTube">
-  </a>
-</p>
 
----
 
 ## Usage
 
@@ -113,12 +102,11 @@ For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dy
 
 ## Contribution
 
-Find issues, suggest enhancements, or contribute to the project by opening an [issue](https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights/issues) or submitting a [pull request](https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights/pulls).
+Find issues, suggest enhancements, or contribute to the project by opening an [issue](https://github.com/KSANTHOSH200/US-Healthcare-Analytics-PowerBI-Insights/issues) or submitting a [pull request](https://github.com/KSANTHOSH200/US-Healthcare-Analytics-PowerBI-Insights/pulls).
 
 ---
 
 
-[![License](https://img.shields.io/badge/License-MIT-silver)](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
 
 This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
 
