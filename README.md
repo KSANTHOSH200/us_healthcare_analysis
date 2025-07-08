@@ -87,7 +87,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights.git
+   git clone https://github.com/KSANTHOSH200/US-Healthcare-Analytics-PowerBI-Insights.git
    ```
 
 2. **Open the Power BI file:**
